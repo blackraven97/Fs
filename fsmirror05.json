@@ -1,0 +1,14 @@
+{
+    "name": "FSMirror05",
+    "version": "1.0",
+    "description": "ملحق لمصدر FSMirror05",
+    "language": "ar",
+    "type": "video",
+    "url": "https://fsmirror05.lol",
+    "searchable": true,
+    "api": {
+        "search": "/search?q=%QUERY%",
+        "latest": "/latest",
+        "resolver": "/stream/%ID%"
+    }
+}
